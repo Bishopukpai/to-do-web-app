@@ -1,18 +1,17 @@
-.App {
-  text-align: center;
+.btn-holder{
+  margin-left: 260px;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.btn-danger{
+  margin-left: 10px;
 }
-
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.btn{
+  background-color: turquoise;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
